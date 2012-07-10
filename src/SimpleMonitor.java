@@ -43,6 +43,4 @@ public class SimpleMonitor {
         printTimes = false;
         out("Testing " + outn++ );
     }
-
-
 }
